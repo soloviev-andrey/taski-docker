@@ -151,4 +151,4 @@ jobs:
           context: ./gateway/
           push: true
           # Тут вместо username должен быть ваш логин на Docker Hub
-          tags: username/taski_gateway:latest
+          tags: anxiaolong1103/taski_gateway:latest
